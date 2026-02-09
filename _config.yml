@@ -2,5 +2,4 @@ theme: jekyll-theme-minimal
 title: Almira Sözlü
 description: Senior Business & Data Analyst - Operations Analytics • Forecasting • Pricing
 
-github:
-  is_project_page: false
+show_github: false
