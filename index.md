@@ -1,6 +1,6 @@
 # Almira Sözlü
 Senior BI & Data Analyst  
-Pricing • Forecasting • Operations Analytics
+Operations Analytics • Forecasting • Pricing
 
 ---
 
