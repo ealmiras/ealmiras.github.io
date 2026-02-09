@@ -1,6 +1,3 @@
-Senior Business & Data Analyst  
-Operations Analytics • Forecasting • Pricing
-
 6+ years in e-commerce analytics, forecasting, and excutive reporting.
 ---
 
