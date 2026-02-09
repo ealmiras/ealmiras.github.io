@@ -11,10 +11,9 @@ MSc. Management
 
 ## Selected Projects
 
-### Customer Churn Prediction
-End-to-end churn modeling using Python with a focus on business interpretation. 
+### Customer Churn Prediction (E-Commerce)
+Built an end-to-end churn analysis and prediction pipeline, translating model outputs into **actionable retention levers** by identifying who is likely to churn, why, and how interventions can be prioritized.  
 **Tools:** Python, pandas, scikit-learn  
 [View on GitHub](https://github.com/ealmiras/customer_churn)
 
 ---
-
