@@ -1,7 +1,7 @@
-# Almira Sözlü
-Senior BI & Data Analyst  
+Senior Business & Data Analyst  
 Operations Analytics • Forecasting • Pricing
 
+6+ years in e-commerce analytics, forecasting, and excutive reporting.
 ---
 
 ## Selected Projects
