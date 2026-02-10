@@ -1,6 +1,6 @@
 ## Introduction
 
-6+ years in e-commerce analytics in international teams with experience in business intelligence, executive reporting, forecasting, and pricing.
+6+ years in multicultural e-commerce analytics with experience in business intelligence, executive reporting, forecasting, and pricing.
 
 BSc. Industrial Engineering  
 MSc. Management
@@ -26,5 +26,6 @@ End-to-end forecasting of **outbound demand and inbound supply** to support ware
 End-to-end churn analysis and prediction pipeline, translating model outputs into **actionable retention levers** by identifying who is likely to churn, why, and how interventions can be prioritized.  
 **Tools:** Python, pandas, scikit-learn  
 [View on GitHub](https://github.com/ealmiras/customer_churn)
+
 
 ---
