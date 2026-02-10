@@ -11,7 +11,7 @@ MSc. Management
 
 ## Selected Projects
 ### Pricing Decision Framework
-Constraint-based pricing engine modeling **platform based** and **promotional** discount decisions under margin, governance, and inventory pressure, with explicit identification of binding constraints driving each price outcome.
+Constraint-based pricing engine modeling **platform-based pricing policy and promotional discount decisions** under margin, governance, and inventory pressure, with explicit identification of binding constraints driving each price outcome.
 Tools: Python, pandas, numpy, matplotlib  
 [View on GitHub](https://github.com/ealmiras/pricing_decision_framework)
 
