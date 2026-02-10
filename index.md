@@ -15,15 +15,16 @@ Constraint-based pricing engine modeling **platform based in-season** and **prom
 Tools: Python, pandas, numpy, matplotlib  
 [View on GitHub](https://github.com/ealmiras/pricing_decision_framework)
 
-### Customer Churn Prediction (E-Commerce)
-End-to-end churn analysis and prediction pipeline, translating model outputs into **actionable retention levers** by identifying who is likely to churn, why, and how interventions can be prioritized.  
-**Tools:** Python, pandas, scikit-learn  
-[View on GitHub](https://github.com/ealmiras/customer_churn)
-
 
 ### Warehouse Operations Forecasting
 End-to-end forecasting of **outbound demand and inbound supply** to support warehouse capacity planning and staffing decisions under operational uncertainty.  
 **Tools:** Python, pandas, matplotlib, statsmodels, Jupyter  
 [View on GitHub](https://github.com/ealmiras/warehouse_operations_forecast)
+
+
+### Customer Churn Prediction (E-Commerce)
+End-to-end churn analysis and prediction pipeline, translating model outputs into **actionable retention levers** by identifying who is likely to churn, why, and how interventions can be prioritized.  
+**Tools:** Python, pandas, scikit-learn  
+[View on GitHub](https://github.com/ealmiras/customer_churn)
 
 ---
