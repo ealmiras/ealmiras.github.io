@@ -10,6 +10,10 @@ MSc. Management
 ---
 
 ## Selected Projects
+### Pricing Decision Framework
+Constraint-based pricing engine modeling **platform based in-season** and **promotional** discount decisions under margin, governance, and inventory pressure, with explicit identification of binding constraints driving each price outcome.
+Tools: Python, pandas, numpy, matplotlib  
+[View on GitHub](https://github.com/ealmiras/pricing_decision_framework)
 
 ### Customer Churn Prediction (E-Commerce)
 End-to-end churn analysis and prediction pipeline, translating model outputs into **actionable retention levers** by identifying who is likely to churn, why, and how interventions can be prioritized.  
@@ -19,7 +23,7 @@ End-to-end churn analysis and prediction pipeline, translating model outputs int
 
 ### Warehouse Operations Forecasting
 End-to-end forecasting of **outbound demand and inbound supply** to support warehouse capacity planning and staffing decisions under operational uncertainty.  
-**Tools:** Python, pandas, matplotlib, statsmodels, Jupyter
+**Tools:** Python, pandas, matplotlib, statsmodels, Jupyter  
 [View on GitHub](https://github.com/ealmiras/warehouse_operations_forecast)
 
 ---
