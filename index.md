@@ -11,8 +11,8 @@ MSc. Management
 
 ## Selected Projects
 ### Global Pricebook Catalog Builder
-RRP-driven pricing pipeline that transforms PO-level RRPs into validated multi-region pricebooks with FX handling, VAT logic, SCD2 history tracking, and producing CRM-ready exports through a fully reproducible Dockerized SQL workflow.
-Tools: PostgreSQL, Docker, Make  
+RRP-driven pricing pipeline that transforms PO-level RRPs into validated **multi-region pricebooks** with FX handling, VAT logic, SCD2 history tracking, and produces CRM-ready exports through a **fully reproducible Dockerized SQL workflow**.  
+**Tools:** PostgreSQL, Docker, Make  
 [View on GitHub](https://github.com/ealmiras/pricebook_catalog_builder)
 
 
