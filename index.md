@@ -17,8 +17,8 @@ RRP-driven pricing pipeline that transforms PO-level RRPs into validated **multi
 
 
 ### Pricing Decision Framework
-Constraint-based pricing engine modeling **platform-based pricing policy and promotional discount decisions** under margin, governance, and inventory pressure, with explicit identification of binding constraints driving each price outcome.
-Tools: Python, pandas, numpy, matplotlib  
+Constraint-based pricing engine modeling **platform-based pricing policy and promotional discount decisions** under margin, governance, and inventory pressure, with explicit identification of binding constraints driving each price outcome.  
+**Tools:** Python, pandas, numpy, matplotlib  
 [View on GitHub](https://github.com/ealmiras/pricing_decision_framework)
 
 
