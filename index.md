@@ -22,6 +22,13 @@ Constraint-based pricing engine modeling **platform-based pricing policy and pro
 [View on GitHub](https://github.com/ealmiras/pricing_decision_framework)
 
 
+### E-Commerce Sales Mart (dbt + BigQuery)
+Analytics engineering project building a **layered warehouse model for e-commerce transactions**, transforming raw order, return, product, and historical pricebook data into a **BI-ready star schema** with temporal price matching and incremental fact modeling. Includes staging, intermediate, and mart layers, **historical pricebook interval modeling**, dbt tests, source freshness monitoring, and full lineage documentation with exposures representing downstream dashboards.  
+**Tools:** dbt, BigQuery, SQL  
+[View on GitHub](https://github.com/ealmiras/ecommerce_sales_mart)  
+[View on dbt Docs](https://ealmiras.github.io/ecommerce_sales_mart/)  
+
+
 ### Warehouse Operations Forecasting
 End-to-end forecasting of **outbound demand and inbound supply** to support warehouse capacity planning and staffing decisions under operational uncertainty.  
 **Tools:** Python, pandas, matplotlib, statsmodels, Jupyter  
@@ -32,6 +39,5 @@ End-to-end forecasting of **outbound demand and inbound supply** to support ware
 End-to-end churn analysis and prediction pipeline, translating model outputs into **actionable retention levers** by identifying who is likely to churn, why, and how interventions can be prioritized.  
 **Tools:** Python, pandas, scikit-learn  
 [View on GitHub](https://github.com/ealmiras/customer_churn)
-
 
 ---
