@@ -23,7 +23,7 @@ Constraint-based pricing engine modeling **platform-based pricing policy and pro
 
 
 ### E-Commerce Sales Mart (dbt + BigQuery)
-Analytics engineering project building a **layered warehouse model for e-commerce transactions**, transforming raw order, return, product, and historical pricebook data into a **BI-ready star schema** with temporal price matching and incremental fact modeling. Includes staging, intermediate, and mart layers, **historical pricebook interval modeling**, dbt tests, source freshness monitoring, and full lineage documentation with exposures representing downstream dashboards.  
+Layered data warehouse model for e-commerce transactions, transforming raw order, return, product, and historical pricebook data into a **BI-ready star schema** with temporal price matching and incremental fact modeling. Includes staging, intermediate, and mart layers, dbt tests, source freshness monitoring, and full lineage documentation with exposures representing downstream dashboards.  
 **Tools:** dbt, BigQuery, SQL  
 [View on GitHub](https://github.com/ealmiras/ecommerce_sales_mart)  
 [View on dbt Docs](https://ealmiras.github.io/ecommerce_sales_mart/)  
