@@ -22,6 +22,12 @@ Constraint-based pricing engine modeling **platform-based pricing policy and pro
 [View on GitHub](https://github.com/ealmiras/pricing_decision_framework)
 
 
+### Olist E-Commerce Analytics (dbt + Snowflake)
+**Full medallion pipeline** (bronze/silver/gold) on Brazilian e-commerce data with 27 models covering customers, orders, sellers, and marketing information, including a Python-based churn feature table, SCD2 order snapshots, a product category translation seed, and cross-model singular tests for consistency and temporal integrity. Delivered with a slim **CI/CD** pipeline via GitHub Actions that builds and tests only changed models on pull requests using dbt state diffing.  
+**Tools:** dbt, Snowflake, Python, GitHub Actions  
+[View on GitHub](https://github.com/ealmiras/olist_analytics)
+  
+
 ### E-Commerce Sales Mart (dbt + BigQuery)
 Layered data warehouse model for e-commerce transactions, transforming raw order, return, product, and historical pricebook data into a **BI-ready star schema** with temporal price matching and incremental fact modeling. Includes staging, intermediate, and mart layers, dbt tests, source freshness monitoring, and full lineage documentation with exposures representing downstream dashboards.  
 **Tools:** dbt, BigQuery, SQL  
